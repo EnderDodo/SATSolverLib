@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SATSolverLib", "SATSolverLib\SATSolverLib.csproj", "{B6581395-F671-490C-B146-809FFC9EAEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{4DC4C1FE-A6C1-424B-A008-3DE4AD1ABC49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6581395-F671-490C-B146-809FFC9EAEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6581395-F671-490C-B146-809FFC9EAEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6581395-F671-490C-B146-809FFC9EAEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6581395-F671-490C-B146-809FFC9EAEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC4C1FE-A6C1-424B-A008-3DE4AD1ABC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC4C1FE-A6C1-424B-A008-3DE4AD1ABC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC4C1FE-A6C1-424B-A008-3DE4AD1ABC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC4C1FE-A6C1-424B-A008-3DE4AD1ABC49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
