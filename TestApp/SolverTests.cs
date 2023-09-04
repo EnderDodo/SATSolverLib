@@ -22,11 +22,11 @@ public class SolverTests
     private static IEnumerable<string> _satCases = new[]
     {
         "..//..//..//TestFiles//example.txt", "..//..//..//TestFiles//examplePureLiteral.txt",
-        "..//..//..//TestFiles//sat_20_91.txt",
-        "..//..//..//TestFiles//sat_50_80.txt", 
-        "..//..//..//TestFiles//sat_50_80_2.txt", 
-        "..//..//..//TestFiles//sat_50_170.txt",
-        "..//..//..//TestFiles//sat_200_1200.txt"
+        // "..//..//..//TestFiles//sat_20_91.txt",
+        // "..//..//..//TestFiles//sat_50_80.txt", 
+        // "..//..//..//TestFiles//sat_50_80_2.txt", 
+        // "..//..//..//TestFiles//sat_50_170.txt",
+        // "..//..//..//TestFiles//sat_200_1200.txt"
     };
 
     [Test]

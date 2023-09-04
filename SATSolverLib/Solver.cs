@@ -33,6 +33,7 @@ public static class Solver
         if (!cnf.Clauses.Any())
         {
             //Console.WriteLine(Counter);
+            solution[0] = true;
             return true;
         }
 
